@@ -5,7 +5,7 @@ node_modules/
 dist/
 
 # system files
-.DS_Store
+.vscode
 
 # environment files 
 .env
