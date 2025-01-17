@@ -1,0 +1,11 @@
+# node_modules folder
+node_modules/
+
+# build output
+dist/
+
+# system files
+.DS_Store
+
+# environment files 
+.env
